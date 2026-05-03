@@ -13,7 +13,6 @@ function App() {
   const [showRecommendationPage, setShowRecommendationPage] =
     useState(false);
 
-  const [age, setAge] = useState("");
 
   const [selectedInterests, setSelectedInterests] =
     useState([]);
